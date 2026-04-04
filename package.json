@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ekin-ceylan/ElectronExercise#readme",
   "dependencies": {
-    "electron": "^18.3.7"
+    "electron": "^39.8.4"
   }
 }
